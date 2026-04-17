@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @CHYEC0885J
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @chengzhangchye
+- 🤖 I am currently in the Vex V5 Robotics team 2769B
+- 🌱 I’m currently learning Python, C++, and Swift
 
 <!---
 CHYEC0885J/CHYEC0885J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
